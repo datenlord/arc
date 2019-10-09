@@ -5,3 +5,6 @@ authors = ["Eli Ma <eli@patch.sh>"]
 edition = "2018"
 
 [dependencies]
+runtime = { path = "runtime" }
+image = { path = "image" }
+distribution = { path = "distribution" }
