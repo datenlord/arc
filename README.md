@@ -1,1 +1,1 @@
-### arc - A Container Engine Of OCI Developed By Rust
+### arc - A Container Engine

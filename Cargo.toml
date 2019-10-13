@@ -8,3 +8,6 @@ edition = "2018"
 runtime = { path = "runtime" }
 image = { path = "image" }
 distribution = { path = "distribution" }
+failure = "*"
+indicatif = "*"
+reqwest = "*"
